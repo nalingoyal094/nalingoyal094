@@ -6,11 +6,14 @@
 Here are some ideas to get you started: -->
 
 -🔭 I’m currently working on Project- College Management System
+
 -🌱 I’m currently learning Web Development and DSA
+
 -👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ... -->
 -💬 Ask me about DSA, competitive Coding
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+-📫 How to reach me: nalingoyal094@gmail.com
+<!-- - 😄 Pronouns: ... -->
+-⚡ Fun fact: I like to eat during programming
 
