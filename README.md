@@ -14,6 +14,6 @@ Here are some ideas to get you started: -->
 -💬 Ask me about DSA, competitive Coding
 
 -📫 How to reach me: nalingoyal094@gmail.com
-<!-- - 😄 Pronouns: ... -->
+-😄 Pronouns: He/His
 -⚡ Fun fact: I like to eat during programming
 
